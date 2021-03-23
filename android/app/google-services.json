@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "116915845397",
+    "project_id": "toukkiapp",
+    "storage_bucket": "toukkiapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116915845397:android:47de968ff807bafd90111c",
+        "android_client_info": {
+          "package_name": "mugen.com.toukki_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116915845397-dk6d1o3bvu2olb3bhvjdk09efvkbg53a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkl_52QIwYCsVHOD2KtmkRZSbE040Cf3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116915845397-dk6d1o3bvu2olb3bhvjdk09efvkbg53a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

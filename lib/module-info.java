@@ -1,0 +1,2 @@
+module toukki.app {
+}
